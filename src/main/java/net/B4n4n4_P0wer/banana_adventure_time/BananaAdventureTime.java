@@ -1,6 +1,8 @@
 package net.B4n4n4_P0wer.banana_adventure_time;
 
 import com.mojang.logging.LogUtils;
+import net.B4n4n4_P0wer.banana_adventure_time.item.ModCreativeModTabs;
+import net.B4n4n4_P0wer.banana_adventure_time.item.ModItems;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
@@ -13,7 +15,6 @@ import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.slf4j.Logger;
 
-// The value here should match an entry in the META-INF/mods.toml file
 @Mod(BananaAdventureTime.MOD_ID)
 public class BananaAdventureTime
 {
@@ -25,7 +26,8 @@ public class BananaAdventureTime
     {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
-//        ModItems.register(modEventBus);
+        //ModItems.register(modEventBus);
+        ModCreativeModTabs.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
