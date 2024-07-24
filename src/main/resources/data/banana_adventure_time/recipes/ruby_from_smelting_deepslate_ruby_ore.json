@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "group": "ruby",
+  "ingredient": {
+    "item": "banana_adventure_time:deepslate_ruby_ore"
+  },
+  "result": "banana_adventure_time:ruby"
+}

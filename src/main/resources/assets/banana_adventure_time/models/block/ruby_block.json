@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "banana_adventure_time:block/ruby_block"
+  }
+}

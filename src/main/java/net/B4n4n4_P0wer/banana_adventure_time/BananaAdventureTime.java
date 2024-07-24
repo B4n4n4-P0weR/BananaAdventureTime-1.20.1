@@ -1,8 +1,10 @@
 package net.B4n4n4_P0wer.banana_adventure_time;
 
 import com.mojang.logging.LogUtils;
+import net.B4n4n4_P0wer.banana_adventure_time.block.ModBlocks;
 import net.B4n4n4_P0wer.banana_adventure_time.item.ModCreativeModTabs;
 import net.B4n4n4_P0wer.banana_adventure_time.item.ModItems;
+import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
@@ -26,7 +28,8 @@ public class BananaAdventureTime
     {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
-        //ModItems.register(modEventBus);
+        ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
         ModCreativeModTabs.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
