@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "banana_adventure_time:ruby"
+    }
+  },
+  "pattern": [
+    "###",
+    " X "
+  ],
+  "result": {
+    "item": "minecraft:dirt"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "minecraft:gold_ingot"
+    },
+    "X": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "pattern": [
+    " # ",
+    "#X#",
+    "#X#"
+  ],
+  "result": {
+    "item": "minecraft:dirt"
+  },
+  "show_notification": true
+}
