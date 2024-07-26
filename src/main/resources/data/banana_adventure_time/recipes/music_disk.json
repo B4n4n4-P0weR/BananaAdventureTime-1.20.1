@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "minecraft:honey_bottle"
+    },
+    "X": {
+      "item": "minecraft:dandelion"
+    }
+  },
+  "pattern": [
+    " # ",
+    "#X#",
+    " # "
+  ],
+  "result": {
+    "item": "banana_adventure_time:come_along_with_me"
+  },
+  "show_notification": true
+}
