@@ -27,6 +27,9 @@ public class ModCreativeModTabs {
 
                         pOutput.accept(ModItems.MARCELINE_AXE.get());
                         pOutput.accept(ModItems.MARCELINE_AXE_GUITAR.get());
+
+                        pOutput.accept(ModItems.ICE_KING_CROWN.get());
+                        pOutput.accept(ModItems.EMPTY_ICE_KING_CROWN.get());
                     })
                     .build());
 

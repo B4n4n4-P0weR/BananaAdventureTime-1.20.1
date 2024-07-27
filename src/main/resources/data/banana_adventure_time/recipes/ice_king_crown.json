@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "banana_adventure_time:empty_ice_king_crown"
+    },
+    {
+      "item": "banana_adventure_time:ruby"
+    }
+  ],
+  "result": {
+    "item": "banana_adventure_time:ice_king_crown"
+  },
+  "show_notification": true
+}
