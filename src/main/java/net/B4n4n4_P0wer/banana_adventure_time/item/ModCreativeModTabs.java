@@ -24,6 +24,9 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModBlocks.RUBY_BLOCK.get());
                         pOutput.accept(ModBlocks.RUBY_ORE.get());
                         pOutput.accept(ModBlocks.DEEPSLATE_RUBY_ORE.get());
+
+                        pOutput.accept(ModItems.MARCELINE_AXE.get());
+                        pOutput.accept(ModItems.MARCELINE_AXE_GUITAR.get());
                     })
                     .build());
 

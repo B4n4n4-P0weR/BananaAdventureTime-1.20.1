@@ -6,7 +6,7 @@
       "item": "minecraft:string"
     },
     "X": {
-      "item": "minecraft:dirt"
+      "item": "banana_adventure_time:marceline_axe"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
     " X "
   ],
   "result": {
-    "item": "minecraft:dirt"
+    "item": "banana_adventure_time:marceline_axe_guitar"
   },
   "show_notification": true
 }

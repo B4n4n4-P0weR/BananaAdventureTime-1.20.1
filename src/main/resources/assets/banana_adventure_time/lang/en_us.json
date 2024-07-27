@@ -3,6 +3,10 @@
   "block.banana_adventure_time.ruby_block": "Block of Ruby",
   "block.banana_adventure_time.ruby_ore": "Ruby Ore",
   "block.banana_adventure_time.deepslate_ruby_ore": "Deepslate Ruby Ore",
+
+  "item.banana_adventure_time.marceline_axe": "Marceline axe",
+  "item.banana_adventure_time.marceline_axe_guitar": "Marceline axe-guitar",
+
   "item.banana_adventure_time.come_along_with_me": "Music Disc",
 
   "creativetab.banana_adventure_time_tub": "Banana Adventure Time"

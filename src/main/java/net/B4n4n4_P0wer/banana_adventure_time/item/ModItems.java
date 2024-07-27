@@ -13,6 +13,12 @@ public class ModItems {
 
     public static final RegistryObject<Item> RUBY  = ITEMS.register("ruby",
             () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> MARCELINE_AXE  = ITEMS.register("marceline_axe",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> MARCELINE_AXE_GUITAR  = ITEMS.register("marceline_axe_guitar",
+            () -> new Item(new Item.Properties()));
+
+
     public static final RegistryObject<Item> COME_ALONG_WITH_ME  = ITEMS.register("come_along_with_me",
             () -> new Item(new Item.Properties()));
 
