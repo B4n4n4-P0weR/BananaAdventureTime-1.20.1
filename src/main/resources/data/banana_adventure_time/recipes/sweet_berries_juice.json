@@ -6,16 +6,14 @@
       "item": "minecraft:sweet_berries"
     },
     "X": {
-      "item": "minecraft:sugar"
+      "item": "minecraft:glass_bottle"
     }
   },
   "pattern": [
-    "#X",
-    "#X",
-    "#X"
+    "#X#"
   ],
   "result": {
-    "item": "banana_adventure_time:candy_cane_sword"
+    "item": "banana_adventure_time:sweet_berries_juice"
   },
   "show_notification": true
 }

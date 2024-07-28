@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "banana_adventure_time:empty_demon_blood_sword_blade"
+    },
+    {
+      "item": "banana_adventure_time:empty_demon_blood_sword_handle"
+    },
+    {
+      "item": "banana_adventure_time:sweet_berries_juice"
+    }
+  ],
+  "result": {
+    "item": "banana_adventure_time:grape_sword"
+  },
+  "show_notification": true
+}

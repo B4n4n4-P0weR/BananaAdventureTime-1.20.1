@@ -3,19 +3,18 @@
   "category": "building",
   "key": {
     "#": {
-      "item": "minecraft:sweet_berries"
+      "item": "banana_adventure_time:scarlet_blade"
     },
     "X": {
-      "item": "minecraft:sugar"
+      "item": "banana_adventure_time:scarlet_handle"
     }
   },
   "pattern": [
-    "#X",
-    "#X",
-    "#X"
+    "#",
+    "X"
   ],
   "result": {
-    "item": "banana_adventure_time:candy_cane_sword"
+    "item": "banana_adventure_time:scarlet"
   },
   "show_notification": true
 }

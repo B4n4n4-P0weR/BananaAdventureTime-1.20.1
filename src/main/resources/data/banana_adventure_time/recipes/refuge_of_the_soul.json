@@ -3,18 +3,19 @@
   "category": "building",
   "key": {
     "#": {
-      "item": "minecraft:dirt"
+      "item": "minecraft:echo_shard"
     },
     "X": {
-      "item": "minecraft:dirt"
+      "item": "minecraft:nether_star"
     }
   },
   "pattern": [
-    "#",
-    "X"
+    " # ",
+    "#X#",
+    " # "
   ],
   "result": {
-    "item": "minecraft:dirt"
+    "item": "banana_adventure_time:refuge_of_the_soul"
   },
   "show_notification": true
 }

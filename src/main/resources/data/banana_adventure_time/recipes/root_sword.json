@@ -3,19 +3,19 @@
   "category": "building",
   "key": {
     "#": {
-      "item": "minecraft:sweet_berries"
+      "item": "minecraft:quartz"
     },
     "X": {
-      "item": "minecraft:sugar"
+      "item": "minecraft:oak_sapling"
     }
   },
   "pattern": [
-    "#X",
-    "#X",
-    "#X"
+    "#",
+    "#",
+    "X"
   ],
   "result": {
-    "item": "banana_adventure_time:candy_cane_sword"
+    "item": "banana_adventure_time:root_sword"
   },
   "show_notification": true
 }
