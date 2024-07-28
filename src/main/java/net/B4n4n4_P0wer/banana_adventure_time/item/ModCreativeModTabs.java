@@ -30,6 +30,14 @@ public class ModCreativeModTabs {
 
                         pOutput.accept(ModItems.ICE_KING_CROWN.get());
                         pOutput.accept(ModItems.EMPTY_ICE_KING_CROWN.get());
+
+                        pOutput.accept(ModItems.SCARLET.get());
+                        pOutput.accept(ModItems.ROOT_SWORD.get());
+                        pOutput.accept(ModItems.DEMON_BLOOD_SWORD.get());
+                        pOutput.accept(ModItems.GRASS_SWORD.get());
+                        pOutput.accept(ModItems.FINN_SWORD.get());
+                        pOutput.accept(ModItems.CANDY_CANE_SWORD.get());
+                        pOutput.accept(ModItems.GRAPE_SWORD.get());
                     })
                     .build());
 

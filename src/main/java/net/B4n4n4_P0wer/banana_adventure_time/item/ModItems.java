@@ -24,6 +24,21 @@ public class ModItems {
     public static final RegistryObject<Item> EMPTY_ICE_KING_CROWN  = ITEMS.register("empty_ice_king_crown",
             () -> new Item(new Item.Properties().stacksTo(1)));
 
+    public static final RegistryObject<Item> SCARLET  = ITEMS.register("scarlet",
+            () -> new Item(new Item.Properties().stacksTo(1)));
+    public static final RegistryObject<Item> ROOT_SWORD  = ITEMS.register("root_sword",
+            () -> new Item(new Item.Properties().stacksTo(1)));
+    public static final RegistryObject<Item> DEMON_BLOOD_SWORD  = ITEMS.register("demon_blood_sword",
+            () -> new Item(new Item.Properties().stacksTo(1)));
+    public static final RegistryObject<Item> GRASS_SWORD  = ITEMS.register("grass_sword",
+            () -> new Item(new Item.Properties().stacksTo(1)));
+    public static final RegistryObject<Item> FINN_SWORD  = ITEMS.register("finn_sword",
+            () -> new Item(new Item.Properties().stacksTo(1)));
+    public static final RegistryObject<Item> CANDY_CANE_SWORD  = ITEMS.register("candy_cane_sword",
+            () -> new Item(new Item.Properties().stacksTo(1)));
+    public static final RegistryObject<Item> GRAPE_SWORD  = ITEMS.register("grape_sword",
+            () -> new Item(new Item.Properties().stacksTo(1)));
+
 
     public static final RegistryObject<Item> COME_ALONG_WITH_ME  = ITEMS.register("come_along_with_me",
             () -> new Item(new Item.Properties()));
