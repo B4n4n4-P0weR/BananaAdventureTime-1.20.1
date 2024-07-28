@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "minecraft:sweet_berries"
+    },
+    "X": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "pattern": [
+    "#X",
+    "#X",
+    "#X"
+  ],
+  "result": {
+    "item": "minecraft:dirt"
+  },
+  "show_notification": true
+}

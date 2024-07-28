@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "banana_adventure_time:item/scarlet_blade"
+  }
+}
