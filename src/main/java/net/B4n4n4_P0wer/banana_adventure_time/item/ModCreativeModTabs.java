@@ -39,11 +39,12 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.CANDY_CANE_SWORD.get());
                         pOutput.accept(ModItems.GRAPE_SWORD.get());
 
+                        pOutput.accept(ModItems.SCARLET_BLADE.get());
+                        pOutput.accept(ModItems.SCARLET_HANDLE.get());
                         pOutput.accept(ModItems.EMPTY_DEMON_BLOOD_SWORD_BLADE.get());
                         pOutput.accept(ModItems.EMPTY_DEMON_BLOOD_SWORD_HANDLE.get());
                         pOutput.accept(ModItems.REFUGE_OF_THE_SOUL.get());
-                        pOutput.accept(ModItems.SCARLET_BLADE.get());
-                        pOutput.accept(ModItems.SCARLET_HANDLE.get());
+
                         pOutput.accept(ModItems.SWEET_BERRIES_JUICE.get());
                     })
                     .build());
