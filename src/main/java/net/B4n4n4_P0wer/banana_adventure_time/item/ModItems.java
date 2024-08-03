@@ -43,9 +43,7 @@ public class ModItems {
             () -> new Item(new Item.Properties().stacksTo(16)));
     public static final RegistryObject<Item> SCARLET_HANDLE  = ITEMS.register("scarlet_handle",
             () -> new Item(new Item.Properties().stacksTo(16)));
-    public static final RegistryObject<Item> EMPTY_DEMON_BLOOD_SWORD_BLADE  = ITEMS.register("empty_demon_blood_sword_blade",
-            () -> new Item(new Item.Properties().stacksTo(16)));
-    public static final RegistryObject<Item> EMPTY_DEMON_BLOOD_SWORD_HANDLE  = ITEMS.register("empty_demon_blood_sword_handle",
+    public static final RegistryObject<Item> EMPTY_DEMON_BLOOD_SWORD  = ITEMS.register("empty_demon_blood_sword",
             () -> new Item(new Item.Properties().stacksTo(16)));
     public static final RegistryObject<Item> REFUGE_OF_THE_SOUL  = ITEMS.register("refuge_of_the_soul",
             () -> new Item(new Item.Properties().stacksTo(1)));
