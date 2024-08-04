@@ -10,9 +10,9 @@
     }
   },
   "pattern": [
-    " # ",
+    "###",
     "#X#",
-    " # "
+    "###"
   ],
   "result": {
     "item": "banana_adventure_time:refuge_of_the_soul"
